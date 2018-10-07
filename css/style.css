@@ -8109,6 +8109,10 @@ textarea.form-control {
     color: rgba(255, 255, 255, 0.9); }
   .ftco-footer .ftco-footer-widget .email a {
     color: #fff; }
+    @media (max-width:768px) {  
+      .ftco-footer .ftco-footer-widget .email a {
+        font-size: 18px; }
+    }
   .ftco-footer .ftco-footer-widget h2 {
     font-weight: 700; }
   .ftco-footer p {
